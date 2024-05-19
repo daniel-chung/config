@@ -1,0 +1,6 @@
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:daniel-chung/kickstart.nvim.git
+[submodule "prezto"]
+	path = prezto
+	url = git@github.com:daniel-chung/prezto.git
